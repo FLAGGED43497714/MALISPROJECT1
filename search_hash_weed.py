@@ -17,7 +17,7 @@ api = tweepy.API(auth)
 
 # choice = input("enter the hashtag : ")
 
-tweets = tweepy.Cursor(api.search_tweets,q='#psg  AND -filter:retweets AND -filter:replies' , lang = 'fr', tweet_mode = "extended").items(200) #,result_type='popular'
+tweets = tweepy.Cursor(api.search_tweets,q='Strasbourg AND -filter:retweets AND -filter:replies' , lang = 'fr', tweet_mode = "extended").items(2000) #,result_type='popular'
 
 # result_type='popular'
 
@@ -27,7 +27,7 @@ tweets = tweepy.Cursor(api.search_tweets,q='#psg  AND -filter:retweets AND -filt
 
 def isGoodTweet(conc_txt, tweet_full_text) :
     good_tweet = True
-    ban_word_list = ['weed', 'beuh', 'nba', 'NBA', ' pass ', 'sanitaire', 'telegram', 'snap', 'snapchat']
+    ban_word_list = ['weed', 'beuh', 'nba', 'NBA', 'sanitaire', 'telegram', 'snap', 'snapchat', 'live stream']
     if conc_txt.count(tweet_full_text) >=  1 :
         good_tweet = False
     for ban_word in ban_word_list :
@@ -48,9 +48,8 @@ for tweet in tweets :
         conc_txt += tweet.full_text + "\n\n\n\n"
 
 print(conc_txt)
-print(conc_txt)
 
-text_file = open("output.txt", "w", encoding="utf-8")
+text_file = open("rien.txt", "w", encoding="utf-8")
 text_file_para = open("output_parallel.txt", "w", encoding="utf-8")
 
 

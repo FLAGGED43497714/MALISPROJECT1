@@ -1,7 +1,7 @@
 import re
 
 
-with open('output.txt', encoding="utf8") as file:
+with open('Norwich_ManU_ManU_11_12.txt', encoding="utf8") as file:
     string = file.read().replace('\n', ' ')
 
 text = u''
