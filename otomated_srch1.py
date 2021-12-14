@@ -16,6 +16,7 @@ def job():
     date = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     for indexMatch in range(len(matchlist)):
         runTime = matchlist['Date'][indexMatch]
+        # print('date = '+str(date))
         if date == str(runTime):
             print('Running ...')
             daymonth = str(matchlist['Date'][indexMatch][:10]) #:10 => juste la date et pas l'heure 
@@ -25,11 +26,11 @@ def job():
             team1 = matchlist['Home Team'][indexMatch]
             team2 = matchlist['Away Team'][indexMatch]
 
-            requestTweets(team1=team1, team2=team2, daymonth=daymonth, language=language, nb_tweets=20)
+            requestTweets(team1=team1, team2=team2, daymonth=daymonth, language=language, nb_tweets=2000)
 
 
 
-schedule.every(0.01).minutes.do(job)
+schedule.every(1).second.do(job)
 
 while True:
     schedule.run_pending()
