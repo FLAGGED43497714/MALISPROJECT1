@@ -1,7 +1,7 @@
 import re
 
 
-with open('Norwich_ManU_ManU_11_12.txt', encoding="utf8") as file:
+with open('Brentford_Manchester United_Brentford14_12_2021.txt', encoding="utf8") as file:
     string = file.read().replace('\n', ' ')
 
 text = u''
