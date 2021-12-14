@@ -5,7 +5,7 @@ import json
 #teams = [homeTeam, awaTeam]
 #language = 'it' / 'en' / 'fr' etc
 
-def requestTweets(team1, team2, language, daymonth) : 
+def requestTweets(team1, team2, language, daymonth, nb_tweets) : 
 
     teams = [team1, team2]
 
@@ -24,7 +24,7 @@ def requestTweets(team1, team2, language, daymonth) :
     # choice = input("enter the hashtag : ")
     for team_index in range(2) :
 
-        tweets = tweepy.Cursor(api.search_tweets,q= teams[team_index] + ' AND -filter:retweets AND -filter:replies' , lang = language, tweet_mode = "extended").items(20) #,result_type='popular'
+        tweets = tweepy.Cursor(api.search_tweets,q= teams[team_index] + ' AND -filter:retweets AND -filter:replies' , lang = language, tweet_mode = "extended").items(nb_tweets) #,result_type='popular'
 
         # result_type='popular'
 
