@@ -13,10 +13,10 @@ matchlist = pd.read_csv(path_matchlist, delimiter=',', dtype=str)
 
 def job():
     global matchlist
-    date = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    date = datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
     for indexMatch in range(len(matchlist)):
         runTime = matchlist['Date'][indexMatch]
-        # print('date = '+str(date))
+        print('date = '+str(date))
         if date == str(runTime):
             print('Running ...')
             daymonth = str(matchlist['Date'][indexMatch][:10]) #:10 => juste la date et pas l'heure 
@@ -34,4 +34,4 @@ schedule.every(1).second.do(job)
 
 while True:
     schedule.run_pending()
-    time.sleep(1)
+    time.sleep(59)
