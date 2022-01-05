@@ -52,6 +52,9 @@ def requestTweets(team1, team2, language, daymonth, nb_tweets) :
                 conc_parallel += tweet.full_text + "\n\n\n\n"
 
             else :
+                conc_txt += "created at : "+str(tweet.created_at) + "\n"
+                conc_txt += "followers count : "+str(tweet.user.followers_count) + "\n"
+                conc_txt += "fav count : "+str(tweet.favorite_count) + "\n"
                 conc_txt += tweet.full_text + "\n\n\n\n"
 
         print(conc_txt)
