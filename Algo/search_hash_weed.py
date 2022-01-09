@@ -3,11 +3,11 @@ import tweepy
 import json
 
 
-consumer_key = 'cB0v9dTf1igUQHAztCAc2cmiv'
-consumer_key_secret = 'jr0HRnBjVDnP9stEB4mCc8VxSaFwadjgRDdDJq7v9J5BtL9rjt'
+consumer_key = 'cB0v9dTf1igUQHAztCAc2cmiv' #'HqOdiEOa8dyh2zehwCmAts98L' 
+consumer_key_secret = 'jr0HRnBjVDnP9stEB4mCc8VxSaFwadjgRDdDJq7v9J5BtL9rjt' #'rt6hIvSQ1rKGVJr0pWSl3Rv98cSRiCyXrPyt92EkP7djbQUCtc' 
 
-access_token = '1447529937385185289-Vh6vY1S8tOxU31xEEnc1LJgffY5F3R'
-access_token_secret = 'XtR0BOMhbCgn6BUxbWmRQB7lPuymmeQQzvH7XYohfXCnu'
+# access_token = '1447529937385185289-Vh6vY1S8tOxU31xEEnc1LJgffY5F3R'
+# access_token_secret = 'XtR0BOMhbCgn6BUxbWmRQB7lPuymmeQQzvH7XYohfXCnu'
 
 
 auth = tweepy.OAuthHandler(consumer_key=consumer_key, consumer_secret=consumer_key_secret)
@@ -17,7 +17,7 @@ api = tweepy.API(auth)
 
 # choice = input("enter the hashtag : ")
 
-tweets = tweepy.Cursor(api.search_tweets,q='FC Barcelona AND -filter:retweets AND -filter:replies' , lang = 'en', tweet_mode = "extended").items(2000) #,result_type='popular'
+tweets = tweepy.Cursor(api.search_tweets,q='Venezia FC AND -filter:retweets AND -filter:replies' , lang = 'it', tweet_mode = "extended").items(1000) #,result_type='popular'
 
 # result_type='popular'
 
@@ -62,7 +62,7 @@ for tweet in tweets :
 
 print(conc_txt)
 
-text_file = open("Barca1.txt", "w", encoding="utf-8")
+text_file = open("levane_mallorc_mal_8_01.txt", "w", encoding="utf-8")
 text_file_para = open("output_parallel.txt", "w", encoding="utf-8")
 
 

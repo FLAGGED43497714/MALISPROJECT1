@@ -9,8 +9,8 @@ def requestTweets(team1, team2, language, daymonth, nb_tweets) :
 
     teams = [team1, team2]
 
-    consumer_key = 'cB0v9dTf1igUQHAztCAc2cmiv'
-    consumer_key_secret = 'jr0HRnBjVDnP9stEB4mCc8VxSaFwadjgRDdDJq7v9J5BtL9rjt'
+    consumer_key = 'cB0v9dTf1igUQHAztCAc2cmiv' #HqOdiEOa8dyh2zehwCmAts98L
+    consumer_key_secret = 'jr0HRnBjVDnP9stEB4mCc8VxSaFwadjgRDdDJq7v9J5BtL9rjt' #rt6hIvSQ1rKGVJr0pWSl3Rv98cSRiCyXrPyt92EkP7djbQUCtc
 
     access_token = '1447529937385185289-Vh6vY1S8tOxU31xEEnc1LJgffY5F3R'
     access_token_secret = 'XtR0BOMhbCgn6BUxbWmRQB7lPuymmeQQzvH7XYohfXCnu'

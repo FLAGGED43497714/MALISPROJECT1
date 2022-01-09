@@ -25,10 +25,19 @@ def job():
                 language = 'en'
             if matchlist['Div'][indexMatch] == 'SP1' :
                 language = 'es'
+            if matchlist['Div'][indexMatch] == 'FR1' :
+                language = 'fr'
+            if matchlist['Div'][indexMatch] == 'AL1' :
+                language = 'de'
+            if matchlist['Div'][indexMatch] == 'IT1' :
+                language = 'it'
+            
+
+
             team1 = matchlist['Home Team'][indexMatch]
             team2 = matchlist['Away Team'][indexMatch]
 
-            requestTweets(team1=team1, team2=team2, daymonth=daymonth, language=language, nb_tweets=2000)
+            requestTweets(team1=team1, team2=team2, daymonth=daymonth, language=language, nb_tweets=1000)
 
 
 
