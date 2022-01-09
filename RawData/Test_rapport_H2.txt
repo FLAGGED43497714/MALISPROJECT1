@@ -1,0 +1,725 @@
+
+INTRODUCTION
+L’hydrogène est actuellement utilisé en raison de ses propriétés chimiques dans l’industrie pétrolière et
+dans l’industrie chimique.
+Cette molécule présente cependant un intérêt énergétique majeur qui n’est pas exploité aujourd’hui. Il
+peut être utilisé pour la production d’énergie sur le réseau, ou dans les transports, et c’est une solution
+pour le stockage de l’énergie, notamment de l’électricité, ce qui sera le défi des systèmes énergétiques du
+21e siècle. L’hydrogène comme vecteur énergétique représente ainsi un enjeu scientifique,
+environnemental et économique.
+Grâce aux progrès de la technologie de l’électrolyse, il peut être produit de façon décarbonée,
+économique et contribuer aux objectifs que la France s’est fixée en matière de développement des
+énergies renouvelables, de réduction des émissions de gaz à effet de serre et des polluants et de
+réduction des consommations d’énergie fossile.
+La loi relative à la transition énergétique pour la croissance verte a fixé comme objectifs d’atteindre en
+2030 un taux de 32% d’énergies renouvelables dans la consommation finale d’énergie et de 40%
+d’énergies renouvelables dans la production d’électricité. La loi fixe également l’objectif de réduire la
+consommation des énergies fossiles de 30% en 2030 et de décarboner 10% du gaz. L’hydrogène
+constitue un levier intéressant pour l’atteinte de ces objectifs mais surtout un levier essentiel pour la
+poursuite de la transition énergétique vers la neutralité carbone à l’horizon 2050.
+En outre, au regard de l’objectif d’autonomie énergétique à 2030 dans les zones non interconnectées
+(ZNI) et des besoins forts pour la flexibilité des réseaux, ces territoires sont identifiés comme prioritaires
+pour des expérimentations et déploiements pilotes dans le domaine du stockage et notamment de
+l’hydrogène. A plus long terme, lorsque le taux d’énergies intermittentes sera élevé sur le réseau
+hexagonal, l’hydrogène pourra jouer un rôle clef dans sa stabilisation.
+Le plan hydrogène présenté par Nicolas Hulot, ministre d’Etat, ministre de la Transition écologique
+et solidaire a pour objectif d’accompagner l’innovation et les premiers déploiements industriels de
+l’hydrogène décarboné, pour être prêt à en faire un pilier de la transition énergétique à moyen
+terme. Il fixe ainsi des objectifs de développement de l'hydrogène dans la transition énergétique.
+Il repose sur les forces de la filière française, particulièrement présente dans la production d’hydrogène,
+et cherche avant tout à « verdir » les usages industriels existants de l’hydrogène, en commençant par les
+usages les plus proches de la rentabilité économique. En capitalisant sur ces développements, il sera
+alors possible de développer les nouveaux usages, liés à la mobilité, d’abord autour de flottes captives,
+puis de stockage de l’énergie renouvelable dans le réseau de gaz, lorsque le besoin apparaîtra.
+Ce plan nourrira la stratégie du Gouvernement en matière d’hydrogène qui aura vocation à se
+traduire en particulier dans la Programmation Pluriannuelle de l’énergie (PPE) pour la période 2019-
+2028, et dans les PPE qui seront réalisées pour chacune des zones non interconnectées au réseau
+métropolitain.
+0
+L’hydrogène en France : état des lieux
+L’hydrogène ou dihydrogène (H2) se présente comme un gaz invisible et inodore. De tous les éléments
+chimiques, c’est le plus léger. C’est également l’élément chimique le plus abondant dans l’univers. Sur
+Terre, il est rarement présent à l’état pur, mais il entre dans la composition de l’eau et des hydrocarbures.
+L’hydrogène n’est pas une source d’énergie mais un « vecteur énergétique ». Il doit être produit puis
+stocké avant d’être utilisé.
+L’énergie contenue dans l’hydrogène peut être récupérée de 2 manières :
+- En le brûlant : la combustion d’un kilo d’hydrogène libère trois fois plus d’énergie que celle d’un
+kilo d’essence et ne produit que de l’eau ;
+- Par une pile à combustible : l’hydrogène couplé à un apport d’air et introduit dans une pile à
+combustible permet de produire de l’électricité en ne rejetant que de l’eau.
+Les propriétés de l’hydrogène permettent de l’utiliser de différentes façons, selon la façon dont il est
+produit :
+- Dans le réseau de gaz mélangé au méthane pour faire de la chaleur ;
+- Dans une voiture comme carburant d’un véhicule à motorisation électrique (l’électricité est produite par une pile à combustible directement dans le véhicule) ;
+- Sur le réseau électrique, pour produire de l’électricité.
+L’hydrogène peut aussi intervenir dans le domaine de la chimie, l’hydrogène y est ainsi valorisé pour
+ses propriétés chimiques :
+- Dans les secteurs du raffinage d’hydrocarbures, de la production d’engrais, et certains usages
+ de la chimie, on utilise l’hydrogène comme matière première ;
+- L’hydrogène mélangé au CO2 produit du méthane de synthèse, molécule identique au gaz
+ naturel, qui peut être utilisé comme gaz.
+Le marché mondial de l’hydrogène est aujourd’hui essentiellement un marché industriel : l’hydrogène est
+un produit utilisé par les procédés dans l’industrie pétrolière et dans l’industrie chimique. Le marché
+mondial de l’hydrogène industriel est estimé aujourd’hui à 60 Mt et le marché français est lui estimé à
+près de 1 Mt.
+En France, la production d’hydrogène industriel représente plus de 900 000 tonnes par an. Les trois
+marchés les plus importants sont la désulfurisation de carburants pétroliers (60%), la synthèse
+d’ammoniac principalement pour les engrais (25%) et la chimie (10%). Il est produit à 94% à partir
+d’énergies fossiles en France (gaz, charbon, hydrocarbures). La production d’hydrogène est responsable
+de l’émission de 11,5 Mt de CO2 en France, soit environ 3 % des émissions nationales.
+L’hydrogène peut cependant être produit de façon décarbonée et économique grâce aux progrès de
+la technologie de l’électrolyse, qui consiste à séparer une molécule d’eau en hydrogène (H2) et en
+oxygène (O2) par un apport d’électricité, à condition que l’électricité ayant servi à le produire soit ellemême produite sans utiliser des énergies fossiles. La production d’hydrogène par électrolyse de l’eau
+1
+apportera à terme une solution structurante pour l'intégration des énergies renouvelables au système
+électrique.
+Des industriels étudient par ailleurs la possibilité de produire à grande échelle de l’hydrogène décarboné,
+mais non renouvelable, à partir de méthane fossile dont le CO2 émis lors de la production d’hydrogène
+serait capté et stocké dans le sous-sol, en particulier en mer du Nord.
+Produit de manière décarbonée, l’hydrogène va ainsi permettre d’accélérer la décarbonation de plusieurs
+usages, dans l’industrie, la mobilité, et les réseaux gaz.
+L’hydrogène peut donc servir les objectifs que la France s’est fixés en matière de développement des
+énergies renouvelables et de réduction des émissions de gaz à effet de serre et des polluants.
+La feuille de route hydrogène se structure ainsi autour des 3 axes suivants : l’industrie, la mobilité et
+l’énergie.
+2
+L’hydrogène comme fondement d’un cercle économique et
+environnemental vertueux
+Le plan d’actions proposé se décline sur les 3 axes suivants avec des démarrages progressifs :
+AXE 1: Production d’hydrogène par électrolyse pour l’industrie,
+phase d’amorçage du plan français
+Les industries comme la raffinerie et la chimie, sont très consommatrices d’hydrogène, aujourd’hui
+produit par des technologies fortement émettrices de gaz à effet de serre. Il est donc fondamental de
+proposer une technologie alternative de production de l’hydrogène.
+L’électrolyse de l’eau est une solution disponible et accessible dès aujourd’hui. Le déploiement de cette
+technologie est rendue possible grâce à la réduction du coût des électrolyseurs au cours de ces dernières
+années. Les analyses montrent que la compétitivité de l’hydrogène « décarboné » ou « vert » (c’est-à-dire
+uniquement produit à partir d’énergies renouvelables) pourrait être atteinte à l’horizon 2035.
+Cette compétitivité dépendra de la technologie d’électrolyse utilisée. Le potentiel des technologies par
+membrane à échange de protons (PEMFC) et alcaline est maintenant bien établi, mais la technologie à
+haute température, la plus récente, est celle qui est la plus prometteuse en termes de compétitivité en
+raison de ses meilleurs rendements. La France possède une avance technique reconnue par les
+industriels sur cette technologie, dont il faut maintenant accélérer la montée en puissance pour disposer
+d’une avance compétitive.
+Le plan français propose de démarrer la courbe d’apprentissage de la filière électrolyse sur la production
+de l’hydrogène à usage industriel en mettant en place des dispositifs de soutien public au déploiement,
+qui viendront en complément des soutiens déjà existants sur la R&D et l’innovation.
+ AXE 2 : Une valorisation par des usages de la mobilité en complémentarité
+des filières batterie
+Le développement de la mobilité propre est un des principaux objectifs de la transition énergétique. Les
+solutions basées sur l’hydrogène complètent celles reposant sur une électrification « tout batterie »,
+notamment pour les usages nécessitant des temps de rechargement rapides, des grands rayons d’action
+ainsi que pour les transports lourds. Les progrès technologiques réalisés permettent d’envisager des
+déploiements à grande échelle.
+L’hydrogène devra également être valorisé dans les usages de mobilité de manière complémentaire aux
+batteries.
+3
+AXE 3 : Un élément de stabilisation des réseaux énergétiques
+sur le moyen-long terme
+L’introduction de l’hydrogène dans les réseaux de gaz naturel constitue une opportunité de réduction de
+l’utilisation de combustible fossile importé. Ce principe est à l’étude notamment aux Pays-Bas où il est
+même envisagé de remplacer les gaz naturels par l’hydrogène, mais aussi en France au travers des
+projets d’expérimentation GRHYD et JUPITER 1000.
+Un groupe de travail avec les industriels concernés devra être missionné pour préciser les données
+technologiques et les mesures réglementaires qu’il convient de mettre en œuvre pour permettre
+l’injection d’hydrogène dans les infrastructures gazières, avec une première restitution avant fin 2018.
+A moyen terme, l’hydrogène pourra contribuer à la flexibilité du système électrique en apportant un
+mode de stockage notamment saisonnier, nécessaire lors d’une intégration accrue des énergies
+renouvelables non pilotables
+A un horizon plus lointain (>2035), l’hydrogène sera un élément de stabilisation des réseaux
+énergétiques. Outre les expérimentations d’injection d’hydrogène dans les réseaux de gaz à accélérer,
+des premières expérimentations et premiers déploiements de services au réseau électrique pourront être
+lancés dans les zones interconnectées (ZNI) dont le contexte différent rend cette technologie
+potentiellement plus intéressante plus rapidement.
+4
+AXE 1: Production d’hydrogène par électrolyse pour l’industrie,
+phase d’amorçage du plan français
+Une forte baisse des coûts des électrolyseurs permettant d’envisager dès aujourd’hui différents
+marchés
+Les technologies d’électrolyse arrivent à maturité, en témoigne notamment la baisse des coûts observée ces
+dernières années (division par 4 depuis 2010 pour la technologie par membrane à échange de protons « Proton
+Exchange Membrane », dite PEM), ce qui a complètement modifié la donne économique. Les perspectives
+d'innovation et d'industrialisation et les économies d’échelle associées sont la clé pour continuer à faire baisser les
+coûts de manière importante.
+L’hydrogène produit par électrolyse revient aujourd’hui aux environs de 4 €/kg à 6 €/kg en fonction de la
+technologie d’électrolyse et pour une durée d’utilisation de l’ordre de 4 000 à 5 000 h par an et un coût de
+l’électricité autour de 50€/MWh.
+Ce coût pourrait atteindre, à l’horizon 2028 de la PPE, 2 à 3 €/kg, ordre de grandeur comparable au
+prix aujourd’hui payé par les grands industriels consommateurs d’hydrogène.
+Pour consolider cette filière naissante, il est nécessaire de poursuivre la courbe d’apprentissage des différentes
+technologies d’électrolyseurs et de positionner l’offre française sur différents marchés, à la fois par le soutien à la
+R&D et par des premières séries de déploiement pour atteindre le stade des centaines de MW cumulés, seuil
+représentatif des cas d’usage futurs.
+Différentes technologies d’électrolyse sont aujourd’hui disponibles, principalement les technologies « PEM » et
+« Alcalines ». La technologie d’électrolyse haute température, maîtrisée par la France1
+, présente quant à elle,
+l’avantage de diminuer les coûts de production de l’hydrogène de 15% et d’atteindre une efficacité de 60% sur le
+« power-to-gas-to-power » comparé à 25% aujourd’hui. Il faut maintenant qualifier cette technologie sous trois
+ans pour avoir une avance compétitive à l’échelle significative du MWe.
+Une stratégie d’amorçage sur le marché de l’hydrogène industriel
+L’hydrogène décarboné peut significativement diminuer l’empreinte carbone de la filière
+« hydrogène industriel », sous réserve de pouvoir concurrencer, dans un contexte de prix du carbone
+suffisant, l’hydrogène produit à base d’énergies fossiles via des solutions d’électrolyse à haute
+performance et en exploitant des énergies renouvelables électriques à bas coût.
+Par ailleurs, le marché de l’hydrogène industriel offre un volume suffisamment important pour
+pouvoir permettre un développement en grande série d’électrolyseurs et ainsi de réaliser les
+économies d’échelle qui permettront de réduire les coûts.
+1
+Le CEA présente le portefeuille de brevets le plus important au monde, dans ce domaine, avec 30
+brevets. 5
+Pour développer le potentiel de l’hydrogène décarboné sans attendre, deux types d’industries sont
+particulièrement concernées :
+- Les industries qui consomment de l’hydrogène comme intrant (verrerie,
+sidérurgie etc.) ;
+- Les industries qui produisent massivement du CO2 (par exemple celle du
+ciment, qui représente environ 4% des émissions mondiales), et pourraient le
+valoriser avec de l’hydrogène en produisant du méthane de synthèse.
+Un cercle vertueux pourrait alors s’enclencher, ces nouveaux marchés d’utilisation d’un hydrogène
+« vert » à coût abordable offrent ainsi de nouvelles opportunités de le valoriser en constituant une
+stratégie d’amorçage solide.
+Le coût de revient de l’hydrogène produit en grande quantité à partir de produits fossiles (vaporeformage
+du gaz) s’élève aujourd’hui entre 1,5 et 2,5 €/kg pour des clients industriels consommant de gros volumes
+(ex : raffineries). Mais pour certains usages moins intensifs mais suffisamment stables (ex : verrerie,
+agroalimentaire, métallurgie, électronique), pour lesquels l’hydrogène est transporté et acheminé par
+camion, dits « usages industriels diffus », l’hydrogène peut revenir aux alentours de 10 à 20 €/kg,
+rarement en dessous de 8 €/kg. Il y a donc un potentiel de marché accessible dès aujourd’hui pour de
+l’hydrogène produit localement par électrolyse. Ce marché ne se développe pas en raison des
+investissements à réaliser et des risques technologiques résiduels pour les industriels, autant
+d’obstacles que l’Etat peut contribuer à dépasser.
+Ce marché est estimé aujourd’hui à 200 kt d’hydrogène par an, soit 20% du marché de l’hydrogène en
+France ce qui permettrait d’éviter la production de 2 millions de tonnes de CO2 par an.
+Un bon équilibre devra être trouvé entre des usages diffus, pour lesquels le prix actuel à concurrencer est
+plus élevé mais qui impliquent une industrialisation plus compliquée (hétérogénéité des configurations,
+pouvant faire monter les coûts) et des usages plus massifs, pour lesquels l’écart de prix à compenser est
+plus important mais qui peuvent permettre de rapidement installer des séries d’électrolyseurs et
+d’augmenter la puissance. Par ailleurs, le fait de passer à une production d’hydrogène sur site entraîne
+des changements en termes d’installation, d’opération et de maintenance, pour les petits industriels par
+rapport à leur offre d’approvisionnement habituelle. Ces facteurs ne sont pas à négliger malgré l’intérêt
+économique qui est devenu réel.
+Pour amorcer le déploiement d’une première série d’électrolyseurs, il est proposé de mettre en place
+un soutien à l’investissement.
+En effet, en plus du changement dans la chaîne d’approvisionnement, l’investissement initial dans
+l’électrolyseur, qui peut être considéré comme une stratégie d’approvisionnement plus risquée, reste l’un
+des principaux freins à la conversion de ces usages, car le modèle économique serait d’ores et déjà
+compétitif ou proche de l’être.
+6
+L’objectif de production d’hydrogène décarboné dans les usages de l’hydrogène industriel qui guidera
+l’action du Gouvernement sera :
+- 10 % en 2023
+- 20 à 40 % en 2028.
+Il sera accompagné par la mise en place en 2020 d’un système de traçabilité sur l’origine de l’hydrogène,
+afin que cet hydrogène décarboné ou produit à partir d’énergies renouvelables puisse être valorisé par
+les acteurs.
+7
+ AXE 2 : Une valorisation par des usages de la mobilité en
+complémentarité des filières batterie
+L’hydrogène stocké et embarqué dans un réservoir sous forme comprimée constitue une réserve
+d’énergie pour un véhicule à traction ou à propulsion électrique. L’hydrogène y est converti en électricité
+et en chaleur via une pile à combustible, qui alimente le moteur électrique, ainsi que l’habitacle pour le
+chauffage. La chaine de traction des véhicules électriques qui mettent en œuvre une pile à hydrogène
+associe généralement une batterie.
+L’hydrogène dans la mobilité est complémentaire aux batteries et au bioGNV. Il présente des avantages
+clés pour les usages intensifs qui nécessitent une forte autonomie et un faible temps de recharge,
+particulièrement en milieu urbain où des mesures sont prises pour réduire la pollution et les nuisances
+sonores. De nombreux projets voient déjà le jour dans les territoires autour de flottes de véhicules
+professionnels légers.
+En raison d’un effet volume encore limité, le coût total de possession d’un véhicule hydrogène reste
+supérieur à celui des équivalents thermiques (entre 20% et 50%). A l’horizon 2030, grâce notamment
+aux progrès espérés en termes de coût de l’électrolyse, l’hydrogène décarboné distribué en station
+devrait être à un niveau de prix comparable (< 7 €/kg) au coût de l’énergie pour un véhicule diesel.
+Ces avantages se retrouvent surtout dans certains transports lourds (routier, ferroviaire et fluvial), pour
+lesquels le poids, l’encombrement et l’énergie embarquée des batteries restent pénalisants. Ces
+transports lourds sont un levier majeur pour assurer rapidement des consommations de volumes
+d’hydrogène importants et engendrer un écosystème autonome par des économies d’échelle en
+permettant de déployer plus rapidement des stations de taille importante. C’est un point clé du modèle
+économique des stations de recharge.
+Pour développer la mobilité à partir d’hydrogène, il faudra :
+- accompagner le développement d’une gamme de véhicules lourds routiers mais aussi pour
+d’autres modes (bateaux, trains, aéronautique).
+- poursuivre la logique de flottes territoriales, sur la base de l’hydrogène produit dans la phase
+d’amorçage. A ce titre, le rôle des collectivités pour agréger les usages au sein de projets
+territoriaux, autour des industriels et des utilisateurs présents sur leur territoire est primordial.
+D’autres usages pourront d’ailleurs être envisagés dans ces projets territoriaux (par exemple,
+mise en commun d’usages industrie/mobilité).
+Si le développement de la production d’hydrogène par électrolyse répond parfaitement aux
+nouvelles attentes des territoires, il favorise aussi l’émergence d’écosystèmes hydrogène locaux –
+c’est-à-dire la combinaison d’un plan de déploiement de la mobilité conçu avec une optique
+d’aménagement du territoire, d’un recours aux énergies renouvelables produites localement et d’un
+système financier pour couvrir les risques de commercialisation.
+8
+Les porteurs de projets, entreprises privées ou collectivités territoriales, soulignent le besoin de bénéficier
+d’un interlocuteur privilégié au niveau national. Ils souhaitent pouvoir être accompagnés sur le montage
+de leurs projets et soulignent un besoin de coordination globale des parties prenantes.
+Une mission d’accompagnement des projets sera confiée à l’ADEME, qui aura alors comme rôle d’orienter
+les porteurs vers les bons interlocuteurs institutionnels, notamment pour les questions réglementaires ou
+de financement, d’aider les collectivités territoriales – en partenariat avec les industriels - à structurer et
+piloter des déploiements d’écosystèmes hydrogène, d’assurer un rôle de mise en cohérence des sujets
+relatifs à l’hydrogène. Ces actions pourraient être déclinées localement grâce à aux délégations
+territoriales de l’ADEME.
+Les moyens dédiés à l’hydrogène contribueront également à ce déploiement d’écosystèmes
+expérimentaux en prenant en charge des différences de coûts avec les solutions actuelles.
+Enfin, sur le volet réglementaire, le travail important réalisé jusque-là pour clarifier les réglementations
+relatives à la sécurité et à la prévention des risques devra se poursuivre pour faciliter les déploiements.
+D’ici mi-2018 un cadre spécifique pour les stations-services distribuant de l’hydrogène sera
+notamment mis en place.
+9
+AXE 3 : Un élément de stabilisation des réseaux énergétiques
+sur le moyen-long terme
+En tant que vecteur énergétique, l’hydrogène produit par électrolyse est à long terme une solution
+structurante pour l'intégration des énergies renouvelables au système électrique : il est le moyen de
+stockage massif inter-saisonnier des énergies renouvelables électriques intermittentes le plus
+prometteur. Outre le stockage sous forme d’hydrogène, les pistes les plus prometteuses sont le « powerto-gas », qui consiste en l’injection directe d’hydrogène dans les réseaux gaziers, ou en la conversion de
+l’hydrogène en méthane de synthèse, après combinaison avec du CO2, pour injection dans les réseaux
+gaz.
+Ce type de besoin émerge d’ores et déjà dans les pays ayant des taux de déploiement d’énergies
+renouvelables très importants, surtout sur des réseaux isolés. Les électrolyseurs sont également
+capables de rendre d’autres services au réseau électrique, au même titre que d’autres technologies de
+stockage ou d’autres moyens de flexibilité (pilotage de la demande, développement des
+interconnexions).
+Dans les zones non interconnectées (ZNI), les taux d’intégration des énergies renouvelables
+intermittentes sont déjà élevés et les moyens de flexibilité sont faibles. L’hydrogène pourrait donc
+trouver sa place, avec d’autres technologies de stockage, dans ces territoires en tant que vecteur de
+flexibilité du système électrique, ce qui permettrait la réalisation de pilotes, en vue d’attaquer les
+marchés à l’export, notamment dans les zones dans lesquelles développer des infrastructures de
+transport et de distribution d’électricité est particulièrement coûteux ou encore dans des sites isolés.
+Enfin l’injection de l’hydrogène décarboné dans les réseaux de gaz pouvant avoir un impact positif dans
+la réduction des émissions de CO2 du système gazier et l’indépendance énergétique, il est indispensable
+d’en évaluer le potentiel dans le cadre de la PPE.
+Les électrolyseurs sont en mesure d’apporter immédiatement des services aux réseaux électriques et un
+débouché supplémentaire au développement des énergies renouvelables. Les réseaux des ZNI étant les
+plus rapidement concernés par de forts taux d’énergies renouvelables dans leurs réseaux ou encore pour
+leurs sites isolés, des expérimentations pourront être lancées rapidement dans ces territoires.
+Pour la métropole continentale, il sera ainsi demandé à RTE et ENEDIS d’identifier les services rendus au
+réseau par les électrolyseurs et les moyens existants ou à mettre en place pour valoriser ce type de
+service.
+Il sera également demandé à EDF SEI et à l’ADEME de caractériser, pour chaque ZNI, les services que
+peuvent rendre les électrolyseurs afin de permettre aux collectivités concernées de prévoir dans leurs
+PPE des mesures et objectifs spécifiques concernant le stockage et l’hydrogène.
+Afin de préparer l’arrivée du power-to-gas, les transporteurs et distributeurs de gaz devront déterminer
+les conditions techniques et économiques (gisements, verrous techniques, sécurité, bilan
+environnemental, etc.) d'injection d'hydrogène acceptables pour les réseaux, pour les installations qui y
+sont raccordées et pour les usages (dont la mobilité gaz), en lien avec les fabricants. Il sera tenu compte
+des expérimentations en cours (GRHYD et JUPITER 1000). Deux rapports intermédiaires sont attendus
+pour l’automne puis pour la fin de l’année 2018. Le rapport final devra être rendu mi-2019.
+10
+Des moyens pour accompagner les premiers déploiements
+Des moyens dédiés à l’hydrogène seront mobilisés par l’ADEME pour permettre les premiers
+déploiements selon les 3 axes présentés précédemment. Ils seront intégrés dans une logique de
+continuité avec sa mission d’accompagnement.
+Les projets seront sélectionnés sur la base d’un appel à projet lancé en 2018. Le gouvernement
+mobilisera 100 M€ à partir de l’année 2019. L’objectif du Ministre de la Transition écologique et
+solidaire est d’atteindre un financement régulier de 100 M€/an en faveur de l’hydrogène si les
+premiers déploiements sont concluants.
+Les aides viseront ainsi les segments suivants :
+- Aide à l’acquisition d’électrolyseurs, grâce à une aide à l’investissement
+couvrant une partie de l’investissement, en visant un coût de soutien inférieur à
+20€/tCO2. Cette aide doit permettre aux industriels utilisateurs d’hydrogène de
+franchir la barrière à l’investissement ;
+- Aides à la mise en place de projets territoriaux pilotes en matière de mobilité :
+aide sous forme d’avances remboursables pour les stations de recharge et aide à
+l’acquisition de véhicules professionnels ou de véhicules destinés au transport
+collectif de personnes ;
+- Aides pour des projets hybrides, en particulier dans les zones non
+interconnectées au réseau, associant plusieurs usages de l’hydrogène.
+Au regard du niveau de maturité encore limité des technologies envisagées et du caractère encore non
+standardisé et divers des projets le soutien sera organisé sous forme d’appels à projets pour des
+financements en subvention ou avances remboursables.
+Le soutien à divers usages finals de l’hydrogène permettra de stimuler la demande, de garantir un socle
+suffisant de consommation et de faciliter le déclenchement des investissements dans la chaîne de
+production et de distribution.
+Des projets de démonstration devront continuer à être soutenus dans le cadre de l’action
+Démonstrateurs de transition écologique et énergétique du Programme des Investissements d’Avenir
+(PIA) piloté par l’ADEME. Ces projets restent nécessaires puisqu’ils jouent un rôle déterminant dans la
+confiance en la maturité technique et commerciale des produits, tant pour les consommateurs que pour
+les fournisseurs, en testant différents modèles d'affaire et en identifiant les meilleurs outils pour un futur
+déploiement de masse.
+En complément des actions de recherche sur les technologies les moins matures et innovantes devront
+continuer à être soutenues notamment à l’aide des programmes ANR.
+11
+Conclusion : une action nationale de la montée en puissance des
+marchés de l’hydrogène et des technologies françaises
+Le plan de déploiement de l’hydrogène doit permettre de structurer une filière émergente française :
+toutes les briques technologiques existent dans notre industrie, permettant d’aborder tous les usages de
+l’hydrogène. L’amorçage, en commençant par les secteurs les plus proches de la rentabilité, doit
+permettre un développement pérenne maximisant l’effet des soutiens publics.
+Cette stratégie peut se résumer dans le graphe joint :
+Le plan français doit également s’insérer dans une compétition mondiale déjà lancée. Il est en effet
+indispensable de construire cette nouvelle filière énergétique avec une vision globale d’autant que les
+filières industrielles, elles-mêmes mondiales, seront en premier lieu concernées.
+Ainsi, au-delà du potentiel d’exportation que pourra porter la filière française, des coopérations seront
+envisageables, notamment avec l’Allemagne sur les sujets industriels (en lien avec la chimie allemande)
+et sur la mobilité (avec le support des équipementiers français qui ont leurs principaux marchés dans les
+deux pays) pour la production d’hydrogène vert. Dans ce contexte, une première coopération va être
+signée entre le CEA et l’institut Max Planck qui coordonne le projet hydrogène de l’industrie allemande.
+Enfin, les cimenteries pesant particulièrement dans les émissions de CO2 mondiales (5%), un sujet de
+réflexion autour de la cimenterie du 21ème siècle sera proposé, notamment en coopération avec la Chine.
+12
+Liste des recommandations
+Toutes les mesures identifiées pour accélérer le développement de la filière hydrogène sont regroupées
+ci-dessous de façon thématique.
+Place de l’H2 dans la Transition Energétique
+La mise en œuvre de la feuille de route commence par la fixation d’objectifs ambitieux dans la stratégie
+de déploiement de l’hydrogène.
+MESURE 1
+Les objectifs suivants guideront l’action du Gouvernement dans les prochaines années, si les premiers déploiements sont concluants :
+- Introduire 10 % d’hydrogène décarboné dans l’hydrogène industriel d’ici à 2023 (soit environ
+100 000 t)et 20 à 40% d’ici 2028.
+- Déployer des écosystèmes territoriaux de mobilité hydrogène, sur la base notamment de
+flottes de véhicules professionnels, avec l’introduction :
+- de 5 000 véhicules utilitaires légers et 200 véhicules lourds (bus, camions, TER,
+bateaux) ainsi que la construction de 100 stations, alimentées en hydrogène produit localement à horizon 2023 ;
+- de 20 000 à 50 000 véhicules utilitaires légers, 800 à 2000 véhicules lourds
+et 400 à 1000 stations à l’horizon 2028.
+La création de nouveaux modèles d’affaires autour de l’hydrogène décarboné suppose de le rendre
+identifiable, afin qu’il puisse se distinguer par rapport à l’hydrogène produit à partir de sources fossiles.
+Deux mesures y contribueront :
+MESURE 2
+Mettre en place dès 2020 un système de traçabilité de l’H2, s’inscrivant dans le cadre européen en
+cours de discussion (révision de la directive relative aux énergies renouvelables).
+MESURE 3
+Assurer la mise en évidence de l’impact environnemental de l’hydrogène dans la réglementation relative aux gaz à effet de serre, ce qui permettra de différencier l’hydrogène en fonction de son mode
+de production.
+Cette mise en évidence se fera :
+1. en inscrivant l’hydrogène dans la Base Carbone®
+ gérée par l’ADEME, en renseignant
+un facteur d’émission propre à l’hydrogène en fonction de la source et du procédé mis
+en œuvre ;
+2. en faisant ressortir explicitement l’hydrogène comme un vecteur énergétique, au
+même titre que l’électricité, la vapeur, etc., au niveau national (méthode réglementaire pour la réalisation des bilans d’émissions de gaz à effet de serre) comme à l’international (normes ISO 14064, 14069).
+13
+Mesures d’accompagnement
+Afin de favoriser l’émergence de projets hydrogène, il est nécessaire d’accompagner les acteurs
+souhaitant s’engager dans ces projets sur différents plans : technique, réglementaire, financier. A travers
+la création d’un guichet unique pour l’hydrogène, les acteurs intéressés doivent pouvoir facilement
+bénéficier des mises en relation nécessaires pour le montage et la conduite de leurs projets.
+MESURE 4
+L’ADEME aura la mission d’accompagner les projets et les territoires aussi bien au niveau national
+qu’à travers ses délégations en régions. Ainsi :
+- Elle orientera les porteurs de projets vers les bons interlocuteurs institutionnels, notamment pour
+les questions réglementaires ou de financement ;
+- Elle aidera, notamment grâce à ses délégations régionales, les collectivités territoriales à inclure
+l’hydrogène dans leurs scénarios et leurs outils de planification locaux (en particulier SRCAE,
+PCAET) et à structurer et piloter des déploiements d’écosystèmes hydrogène.
+Des soutiens à la R&D et à la démonstration existent déjà. Ils permettent un accompagnement des plus
+bas niveaux de maturité technologique (programmes ANR) jusqu’à la démonstration (Investissements
+d’Avenir). Il n’existe toutefois pas d’outils spécifiques aujourd’hui pour accompagner les premiers
+déploiements. Un soutien financier de l’Etat à l’investissement pour les systèmes d’électrolyseurs et à
+divers usages finals de l’hydrogène permettra de stimuler la demande, de garantir un socle suffisant de
+consommation et, in fine, de faciliter le déclenchement des investissements dans la chaîne de production
+et de distribution. Au regard de la diversité des projets rencontrés, un soutien via une enveloppe dédiée
+est privilégié. Les dispositifs de soutien pourront évoluer par la suite, pour s’adapter aux caractéristiques
+des marchés.
+MESURE 5
+Mobiliser des moyens dédiés au déploiement de l’hydrogène, opérés par l’ADEME, pour financer les
+premiers déploiements. Un premier appel à projets sera lancé avant fin 2018 et le Gouvernement
+mobilisera 100M€ à partir de 2019 afin de financer des expérimentations et les premiers déploiements
+en visant plusieurs usages, dont l’industrie, la mobilité et les usages stationnaires (en priorité dans les
+ZNI) :
+1. Aides à l’investissement pour cofinancer des premières séries d’électrolyseurs et
+obtenir des effets d’échelles (centaines de MW) ;
+2. Aides aux usages finaux, en compensant les surcoûts par rapport à des solutions
+concurrentes à base d’énergies fossiles, pour consolider la demande et déclencher les
+investissements dans la chaîne de production et de distribution.
+14
+L’aide apportée visera ainsi les segments suivants :
+- Aide à l’acquisition d’électrolyseurs, avec une aide à l’investissement pour un prix
+maximal de la tCO2 évitée de 20€ sur la durée de vie d’un électrolyseur. Cette aide doit
+permettre de franchir la barrière à l’investissement pour les industriels utilisateurs
+d’hydrogène ;
+- Aides à la mise en place de projets territoriaux pilotes en matière de mobilité : aide sous
+forme d’avances remboursables pour les stations de recharge et aide à l’acquisition de
+véhicules professionnels ou de véhicules destinés au transport collectif de personnes ;
+- Aides pour des projets hybrides, en particulier dans les ZNI, associant plusieurs usages
+de l’hydrogène.
+Lorsque le marché des électrolyseurs sera considéré comme plus proche de concurrencer l’H2 issu de vaporéformage sans soutien public, l’aide à l’investissement pourra laisser la place à d’autres mesures (appels d’offres, tarifs d’achat, etc.) ou éventuellement à des mesures contraignantes (ex : taux d’incorporation contraignant d’H2 décarboné dans l’industrie).
+Par ailleurs, les territoires (de la commune à la région) sont des acteurs clés dans le montage de projets
+hydrogène. En effet, les territoires ont la capacité de créer un lien entre les acteurs de l’hydrogène au
+travers d’écosystèmes hydrogène locaux. Des territoires se positionnent déjà pour déployer de tels
+écosystèmes en prenant en compte leurs spécificités territoriales, comme la présence de sources
+d’énergies renouvelables, d’acteurs industriels leaders dans leur domaine ou de potentiels de clients de
+mobilité importants.
+Deux mesures sont proposées afin de conforter les territoires dans leur rôle en matière d’hydrogène.
+MESURE 6
+Un groupe de travail avec les institutions financières sera créé au second semestre 2018 (financeurs
+privés et publics dont la Caisse des dépôts, Bpifrance) afin standardiser des modèles de
+cofinancement pour les projets de déploiements d’écosystème dans les territoires. Afin de gagner du
+temps dans le montage financier du projet.
+MESURE 7
+Le cadre juridique d’action des collectivités territoriales doit être sécurisé :
+Un droit d’expérimentation sera étudié pour les régions afin qu’elles puissent déployer des électrolyseurs
+ou des stations, compétence aujourd’hui réservée aux départements et agglomérations qui disposent
+des compétences opérationnelles pour monter les projets mais sur un niveau de planification qui n’est
+pas toujours le plus adapté.
+Les collectivités seront accompagnées dans la notification de leurs projets à la Commission européenne
+dans le cadre relatif aux aides d’Etat (par exemple, pour permettre le financement jusqu’à 100% du
+surcoût d’un véhicule propre) et dans leur recherche de financement européen.
+15
+Réglementation et prévention des risques
+L’hydrogène est un gaz ayant une grande densité énergétique et est inflammable. Son usage est donc
+réglementé de façon à limiter les risques d’inflammation et d’explosion.
+Les questions de sécurité sont à traiter à chaque étape de la chaîne de valeur : production, stockage,
+transport et utilisation. Sur le volet réglementaire, le travail important réalisé jusque-là pour clarifier les
+réglementations relatives à la sécurité et à la prévention des risques se poursuivra afin faciliter les
+déploiements.
+MESURE 8
+Les travaux réglementaires pour encadrer la production et l’utilisation d’hydrogène et garantir la sécurité des biens et des personnes se poursuivront. A très court terme :
+ D’ici mi-2018, le décret encadrant l’utilisation d’hydrogène dans les stations-services au titre de
+la réglementation sur les installations classées pour la protection de l’environnement (ICPE) sera
+publié (procédure de déclaration au-dessus d’un certain seuil) ;
+ A la même échéance, l’arrêté ministériel fixant les prescriptions générales de sécurité à respecter
+par l’ensemble des stations-services hydrogène soumise à déclaration sera également (consultation en cours sur le projet de texte) publié.
+MESURE 9
+Un groupe de travail avec l’ensemble des acteurs concernés (ministères, gestionnaires
+d’infrastructures) sera lancé au deuxième semestre 2018 sur la simplification et l’harmonisation des
+procédures d’autorisation et d’homologation des bateaux et des solutions d’avitaillement
+hydrogène associées. Les propositions réglementaires associées devront être présentées au 1er
+semestre 2019.
+Intégration de l’H2 dans les systèmes énergétiques
+L’hydrogène produit par électrolyse est une solution structurante pour l'intégration des énergies renouvelables au système électrique : il est actuellement le moyen de stockage massif inter saisonnier des
+énergies renouvelables électriques intermittentes le plus prometteur, notamment via le power-to-gas.
+Les électrolyseurs sont également capables de rendre d’autres services au réseau électrique, au même
+titre que d’autres technologies de stockage ou d’autres moyens de flexibilité (pilotage de la demande,
+développement des interconnexions).
+Au regard de l’objectif d’autonomie énergétique à 2030 dans les zones non interconnectées (ZNI) et des
+besoins forts en moyen de flexibilité, les ZNI sont identifiées comme des territoires particuliers nécessairement prioritaires pour des expérimentations et déploiements pilotes dans le domaine du stockage et
+notamment de l’hydrogène.
+MESURE 10
+Pour la métropole continentale, il sera demandé à RTE et ENEDIS d’identifier les services rendus au
+réseau par les électrolyseurs et les moyens existants ou à mettre en place pour valoriser ce type de
+service.
+16
+MESURE 11
+Il sera également demandé à EDF SEI et à l’ADEME de caractériser, pour chaque ZNI, les services que
+peuvent rendre les électrolyseurs et les besoins de flexibilité de chaque territoire afin de permettre
+aux collectivités concernées de prévoir dans leurs PPE des mesures et objectifs spécifiques
+concernant le stockage et l’hydrogène.
+MESURE 12
+Afin de préparer l’arrivée du « power-to-gas », les transporteurs et distributeurs de gaz devront
+déterminer les conditions techniques et économiques (gisements, verrous techniques, sécurité, bilan
+environnemental, etc.) d'injection d'hydrogène acceptables pour les réseaux, pour les installations
+qui y sont raccordées et pour les usages (dont la mobilité gaz), en lien avec les fabricants.
+Il sera tenu compte des expérimentations en cours (GRHYD et JUPITER 1000). Ces conditions seront
+validée par l’Etat en tant que de besoin (par exemple sur les aspects sécurité). Deux rapports
+intermédiaires sont attendus à l’automne puis pour la fin de l’année 2018 pour un rapport final qui devra
+être rendu mi 2019.
+Par ailleurs la possibilité d’accéder à de l’hydrogène décarboné produit à l’aide de technologie de
+captage et de stockage du CO2 notamment en mer du Nord sera également étudiée par les gestionnaires
+de réseaux gaz d’ici fin 2018.
+Développement des filières industrielles et soutien à l’innovation
+Les programmes de recherche mis en place à l’ANR (10M€ sur les 5 dernières années) ont contribué à
+soutenir un écosystème de recherche d’excellence. Les programmes de recherche technologique sur
+l’hydrogène conduits depuis plus de 10 ans en partenariat public-privé ont eu un impact important sur
+l’émergence de nouveaux acteurs industriels sur cette filière. Un certain nombre d'applications n'a
+cependant pas encore atteint le niveau de développement technologique et de déploiement souhaité.
+Pour celles-ci, des actions supplémentaires pour augmenter leur état de maturité sont nécessaires,
+notamment en termes de durabilité, de performance, d’intégration système et in fine de coût.
+Par ailleurs, dans le cadre de l’outil « Démonstrateurs de la transition écologique et énergétique » du
+programme des investissements d’avenir, environ 100 M€ ont déjà été engagés depuis 2012 pour la
+mise en place de démonstrateurs. Les actions seront poursuivies dans ce domaine.
+MESURE 13
+Le Programme d’investissement d’avenir soutiendra notamment, au travers d'appels à projets
+existants ou d'un appel à manifestation d'intérêt dédié à l’hydrogène, le développement de
+véhicules français lourds/de grande autonomie à hydrogène (camions, bus, bateaux, trains...), de la
+chaîne de composants associés, et de systèmes compétitifs de production et de stockage
+d'hydrogène décarboné et durable.
+MESURE 14
+Un programme de recherche sera mis en œuvre à l’ANR afin de s’attaquer aux ruptures scientifiques
+et technologiques nécessaires à la performance des applications et au maintien du haut niveau
+d’excellence de l’écosystème français de l’hydrogène. Une animation scientifique sera mise en place
+pour les projets soutenus et l’articulation avec les actions plus aval de l’ADEME sera prévue. Les
+modalités de ce nouveau programme seront arrêtées avant fin 2018.
+17
+L’industrie de l’hydrogène aura besoin d’une main d’œuvre qualifiée (ingénieur, techniciens, opérateurs).
+Par ailleurs, l'introduction de l'hydrogène dans les programmes technologiques des lycées et des
+formations supérieures permettrait de sensibiliser les jeunes à ces métiers.
+MESURE 15
+L’hydrogène devra être inclus dans l’offre de formation initiale et continue relative à la transition
+énergétique. Pour développer les outils de formation nécessaires, des travaux collaboratifs seront
+engagés avec des professionnels de chaque domaine (pompiers, architectes, inspecteurs des
+installations classées, mécaniciens, urbanistes, chauffagistes, etc.) en concertation avec les
+ministères concernés.
+Au-delà des outils de production et des consortiums en cours de montage, il est indispensable de
+s'assurer que les technologies hydrogène répondront aux normes et réglementations imposées en
+France et au niveau international. Les industriels français doivent pour cela pouvoir s'appuyer sur des
+plateformes de moyens d'essais nécessaires à la qualification, l'homologation et la certification de leurs
+technologies. Cela est particulièrement critique pour la filière des réservoirs embarqués dont
+l'homologation requiert des essais très spécifiques.
+MESURE 16
+Instruire et accompagner la création d’un centre international de qualification / certification de
+composants H2 haute pression pour la mobilité routière, l’aéronautique, le maritime, le fluvial, le
+ferroviaire.
+Les lignes principales du réseau ferré français sont aujourd’hui électrifiées. Cette électrification, qui est
+utile pour atteindre des vitesses élevées, permet de s’affranchir des motrices diesel qui émettent du CO2
+et des particules fines. Le coût d’électrification d’1 km de voie ferrée est estimé à plus d’1 million d’euro et
+n’est pas pertinent sur toutes les lignes. Dans ce cadre des motrices à hydrogène pourraient assurer une
+électromobilité à un coût maîtrisé en substitution de motrices diesel.
+MESURE 17
+Le verdissement du parc ferroviaire devra être préparé afin de permettre le remplacement des
+locomotives et automotrices les plus polluantes dans les meilleurs délais et viser ainsi la neutralité
+carbone en 2050.
+Une mission parlementaire sera lancée d’ici la fin du premier semestre 2018. Elle permettra
+notamment d’estimer la place de l’hydrogène dans le rail et d’identifier les verrous à lever.
+Si la plupart des technologies nécessaires à ces déploiements sont déjà au stade de la
+commercialisation, elles sont encore dans un mode de production de petites séries. La mise en œuvre de
+ce plan national doit permettre de changer de dimension en développant les outils de production
+conduisant à la massification, synonyme de baisse des coûts nécessaire à la compétitivité des
+entreprises.
+L’ensemble de l’écosystème français doit être mobilisé. Si la montée en puissance des différentes filières
+industrielles doit être accompagnée au travers des différentes mesures proposées dans cette feuille de
+route, il convient également qu’à l’inverse, les industriels s’engagent vis-à-vis des pouvoirs publics.
+18
+MESURE 18
+Les industriels français seront réunis par les pouvoirs publics dès l’été 2018 en vue de l’élaboration
+d’« engagements croissance verte » (ECV), avec un objectif de signature d’ici la fin de l’année. Les
+discussions pour l’élaboration de ces ECV pourront s’inscrire dans le cadre des travaux menés par les
+comités stratégiques de filières.
+La montée en puissance de plusieurs consortiums industriels pourra être approfondie dans ce cadre,
+notamment :
+1. Une filière électrolyse avec les énergéticiens français et des équipementiers,
+2. Plan de déploiement de l’hydrogène pour la transition énergétique
+3. L’industrialisation de nouvelles plates-formes de véhicule (notamment camion et
+camionnette) avec les acteurs de la PFA,
+4. L’industrialisation d’un réservoir adapté avec équipementiers de l’automobile et de
+l’aéronautique et un industriel chimiste,
+5. L’industrialisation de piles à combustibles pour les domaines de l’aéronautique,
+19
+Témoignages d’industriels qui se sont positionnés sur
+l’hydrogène
+VICAT
+Dans une volonté nationale et européenne de
+diminuer au maximum et au plus vite les rejets de CO2
+de l’industrie cimentière (2,6% du total des
+émissions), Vicat a engagé depuis plusieurs années
+une politique de réduction de ses émissions,
+notamment par l’utilisation croissante de
+combustibles non-fossiles, mais aussi par le
+développement de produits et systèmes constructifs
+tout en conservant ses outils industriels en France, en
+les adaptant pour être non plus une contrainte pour
+les territoires d’implantation mais une solution.
+Le process cimentier est un process industriel à feu
+continu, nécessitant une grande quantité d’énergie thermique et électrique. L’énergie électrique est
+majoritairement utilisée pour la préparation et le broyage des matières et l’énergie thermique est requise
+pour la réaction de transformation minéralogique de la matière.
+Pour répondre à ces enjeux, l'hydrogène est une des solutions qui pourrait s'imposer. Produit par
+électrolyse à partir d'électricité renouvelable, il peut en effet être recombiné par méthanation avec ce
+CO2 capté sur les fumées. Le méthane produit (application « Power-to-Gas ») remplacera une partie des
+combustibles fossiles habituellement utilisés, ou pourra, selon les conditions économiques, être réinjecté
+dans le réseau.
+En complément de cette application Power-to-Gaz, la valorisation du vecteur énergétique hydrogène
+pour des usages « électromobilité », et « industriels » (réinjection directe de l’hydrogène dans le four)
+peut être envisagée.
+La cimenterie du futur deviendrait alors un véritable hub énergétique territorial et un outil de
+transformation fournissant chaleur, hydrogène et méthane de synthèse pour des usages de proximité.
+20
+SAFRAN
+En tant que leader mondial de la motorisation des avions
+commerciaux moyen-courriers et des hélicoptères, Safran est
+concerné au premier chef par l’indispensable réduction de
+l’empreinte écologique du secteur aéronautique.
+SAFRAN est convaincu que les objectifs ambitieux de
+réduction de l’empreinte écologique du secteur aéronautique
+commercial, définis aux horizons 2035 et 2050, ne pourront
+être satisfaits que par une évolution en profondeur des
+architectures des systèmes énergétiques embarqués à bord des aéronefs. L’hydrogène est appelé à jouer
+un rôle majeur à bord des plates-formes aéronautiques du futur. Trois fois plus performant que le
+kérosène en termes de densité énergétique, l’hydrogène constitue sans aucun doute un carburant pour
+l’avenir. Les solutions à base d’hydrogène seront capables de présenter des densités énergétiques (ratio
+énergie / masse) compatibles de l’emport sur avions ou hélicoptères. Les perspectives d’amélioration des
+performances des batteries à horizon de 10 à 20 ans ne permettent pas d’envisager des solutions « tout
+batterie » en réponse aux futurs besoins de l’aéronautique commerciale.
+Par ailleurs, l’émergence des nouveaux marchés de la mobilité urbaine et interurbaine (On Demand
+Mobility) se traduira par la mise sur le marché de véhicules aériens de petites capacités d’emport, basés
+sur des systèmes de propulsion électriques pour lesquels les équipements de piles à combustible
+constitueront des solutions pérennes et non polluantes.
+D’ores et déjà, les systèmes à base de piles à combustibles développés par Safran sont conçus pour
+permettre d’alimenter les charges non-propulsives des aéronefs, en vol et au sol. Le projet PIPAA,
+soutenu par le CGI et BPI France, est un exemple de cette première étape. Il a pour objectif court terme de
+déployer la technologie piles à combustibles sur des avions existants et pourra permettre une réduction
+significative des émissions polluantes par retrofit des équipements sur les avions en service. Pour
+répondre à l’ensemble des besoins résumés ci-dessus, la stratégie de Safran, au travers des feuilles de
+route technologiques mises en place, vise maintenant à étendre l’utilisation de l’hydrogène au système
+propulsif des aéronefs, dans des configurations hybrides associant propulsion thermique et propulsion
+électrique. Cette nouvelle étape passe par le développement de piles à combustible plus puissantes et,
+pour les applications de l’aéronautique commerciale, par la mise au point de solutions d’emport de
+quantités d’hydrogène plus importantes à bord des aéronefs, nécessitant a priori un stockage sous forme
+liquide (LH2). Elle ouvre ainsi la voie aux études et développement de la future génération d’aéronefs qui
+sera nativement conçue pour accueillir la technologie hydrogène.
+Dans la compétition internationale intense qui cible ces nouvelles générations d’avions et d’hélicoptères,
+pour des mises en service à l’horizon 2025-2035, le développement et la mise au point de solutions de
+propulsion hybride à base d’hydrogène constituera un atout décisif pour Safran.
+21
+ENGIE
+ENGIE a la conviction que le système énergétique de demain sera décentralisé, décarboné et digitalisé.
+ENGIE s’est engagé fortement dans la transition vers ce monde où les énergies renouvelables auront une
+place prédominante. Plus particulièrement, ENGIE pense que l’hydrogène vert aura une place de choix
+dans le mix énergétique de demain, car il permettra :
+- d’offrir une complémentarité décarbonée et 100% sans particules aux limites de la mobilité tout
+électrique, en particulier pour les usages intensifs, les longues distances ou les véhicules lourds
+(flottes captives telles que les bus, taxis, charriots, trams, trains, bateaux caboteurs/ bateauxmouches, etc.)
+- de décarboner les usages massifs industriels d’hydrogène en le produisant par hydrolyse et à
+partir d’énergie verte
+- de répondre au problème de l’intermittence des énergies renouvelables, notamment parce qu’il
+offre une solution de stockage et de flexibilité, au service des infrastructures et des besoins thermiques des bâtiments, évitant ainsi des renforcements de réseaux.
+Schéma du démonstrateur GRHYD à Dunkerque
+A terme, l’hydrogène vert pourra être produit à grande échelle, par électrolyse, à coût compétitif dans
+certaines zones du monde. Cet hydrogène pourra ensuite être utilisé pour répondre à des besoins locaux
+mais pourra également être exporté vers d’autres zones qui seront en déficit d’énergie renouvelable par
+rapport à leurs besoins.
+Pour parvenir à cette fin, il convient :
+- de développer la demande autour des usages de l’hydrogène (industrie, mobilité, énergie),
+- de développer la production d’hydrogène renouvelable
+Même si les coûts de production des énergies renouvelables ont été fortement réduits, le coût des
+infrastructures à mettre en place (électrolyseur, stockage) est tel que l’hydrogène renouvelable n’est pas
+encore compétitif dans les usages industriels par rapport à l’hydrogène issu du reformage. Du côté de la
+mobilité, c’est le coût des investissements dans les nouvelles flottes de véhicules et dans les stations de
+rechargement qui constitue un frein au développement. En soutenant la production et les usages de
+l’hydrogène, cela permettra aux coûts de baisser dans des proportions proches de ce qui a été observé
+pour les autres énergies renouvelables. L’hydrogène vert aura alors toute sa place et sa pertinence
+économique dans un paysage énergétique nouveau entièrement décarboné et sécurisé.
+Il faut donc accompagner financièrement le développement des usages afin de réduire cet écart de
+compétitivité par rapport aux solutions alternatives, d’autant que des solutions techniques sont déjà
+disponibles (bus, taxis, Kangoo…).
+22
+Au fil du temps, cet écart de compétitivité devrait se résorber, une fois la taille critique et les réductions
+de coûts atteints sur les technologies (électrolyseurs, pile à combustible, stockage…).
+Pour assurer un déploiement significatif de l’hydrogène, il est cependant nécessaire d’avoir un cadre
+réglementaire incitatif et stable. La législation doit également être neutre sur le plan technologique : par
+exemple, les avantages dont bénéficient les véhicules à batterie électrique devraient être équivalents à
+ceux des véhicules à pile à combustible. Il est important que tous les acteurs, incluant les industries, les
+pouvoirs publics, les établissements financiers et instituts de recherche se mobilisent pour agir dès
+maintenant, et ce de manière coordonnée. ENGIE est convaincu qu’une coordination au niveau national
+est requise, avec une vision systémique de l’ensemble des énergies et de leur complémentarité, avec
+l’objectif d’optimiser les coûts énergétiques globaux.
+FAURECIA
+Faurecia, entreprise technologique leader de l’industrie automobile, estime qu’en 2030 plus de 50% du
+marché sera électrifié, avec toutefois une part importante de motorisations hybrides (électriques et
+thermiques). Les motorisations « zéro-émission » ne devraient pas dépasser 15% en 2030 car les défis
+technologiques, d’infrastructures et de coûts restent significatifs.
+La croissance motorisations zéro-émission est cependant irréversible. L’évolution du mix des
+motorisations dépendra principalement des cas d’usages, des contraintes règlementaires et des coûts.
+Dans ce contexte, Faurecia est convaincue que la pile à combustible est une alternative majeure aux
+limitations des véhicules 100% électriques à batteries, elle permet d’atteindre des performances
+équivalentes à celle des moteurs à combustion interne en termes d’autonomie (700-800km) et de temps
+de recharge (3 à 5mn). De plus, sa densité énergétique, par unité de volume et de poids, est très
+supérieure à celles des batteries (en 2025, 85 fois plus importante avec 34KWh/kg). C’est par
+conséquent une technologie particulièrement adaptée pour des cas usages liés à une activité intensive
+nécessitant d’embarquer des niveaux d’énergie importants, comme par exemple les véhicules utilitaires,
+camions et bus. Les premiers usages significatifs pourraient démarrer avec des flottes captives
+nécessitant des infrastructures de charges limitées. Le marché est en plein essor, les grands
+constructeurs mondiaux ont tous annoncés leurs projets de développement avec des lancements prévus
+entre 2020 et 2025 tant sur les véhicules particuliers que sur les flottes professionnelles.
+D’un point de vue économique et du développement durable, la pile à combustible ne présente pas de
+problème d’approvisionnement ou de consommation de matériaux rares qui pourraient conduire à
+d’éventuelles tensions sur l’approvisionnement de matériaux lié à la croissance des volumes. De plus, les
+matériaux utilisés sont parfaitement recyclables.
+Faurecia - avec le soutien de grands centres de recherches comme le CEA et le Collège de France -
+développe des solutions de ruptures aussi bien pour les composants principaux que pour les
+performances système.
+Ainsi tous les acteurs de la filière hydrogène, seront en mesure de développer une spécificité française
+performante, capable de se différencier sur le marché international de la mobilité.
+Pour accélérer le déploiement de la technologie, il est nécessaire :
+1. De faciliter le déploiement de flottes captives de véhicules hydrogène (« hydrogen valleys »)
+2. D’aider au développement d’une infrastructure pour faciliter certains usages - de livraisons urbaines et péri-urbaines en Ultra Low Emission Zone - avec un objectif de 200 Stations en 2022,
+500 en 2024 et 1500 en 2030.
+La pile à combustible contribuera rapidement et efficacement à la croissance de la mobilité à zéroémission. 23
