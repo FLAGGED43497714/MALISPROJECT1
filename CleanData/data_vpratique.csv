@@ -1,0 +1,8 @@
+HomeTeam,AwayTeam,HomeAvgPolarity,EloHome,AwayAvgPolarity,EloAway,Outcome
+Caen,Guingamp,0.084,1371,0.073,1425,1
+Wolves,Chelsea,0.052,1738,0.012,1933,2
+Brentford,Manchester United,-0.048,,0.053,,reporté
+Liverpool,Newcastle,0.109,2003,0.080,1664,1
+Norwich,Aston Villa,0.127,1619,0.105,1735,3
+Norwich,ManU,0.088,1622,0.116,1874,3
+Tottenham,Liverpool,0.125,1782,0.090,2005,2
