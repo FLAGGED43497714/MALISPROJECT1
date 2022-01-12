@@ -38,7 +38,7 @@ for filename in os.listdir(path_of_the_directory):
 
         print("Writing ...") 
 
-        new_name = "En_"+filename
+        new_name = "En-"+filename
 
         conc_txt = ""
 

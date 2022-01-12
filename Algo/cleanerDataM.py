@@ -6,8 +6,8 @@ Created on Thu Jan  6 17:14:50 2022
 """
 
 from textblob import TextBlob
-from googletrans import Translator
-from deep_translator import GoogleTranslator
+# from googletrans import Translator
+# from deep_translator import GoogleTranslator
 import re
 import numpy as np 
 import pandas as pd
@@ -25,8 +25,8 @@ THE_df = pd.read_csv(THE_data_csv)
 
 
 
-link_hometeam = "En-Venezia_Juv_Vene_11_12.txt"
-link_awayteam= "En-Venezia_Juv_Juv_11_12.txt"
+link_hometeam = "translated\Inter_Lazio_Inter09_01_2022.txt"
+link_awayteam= "translated\Inter_Lazio_Lazio09_01_2022.txt"
 
 english = True
 
@@ -57,8 +57,8 @@ for i in range(len(tmpH)):
     #if blob.detect_language()!="en":
         #blob.translate(to="en") #translation into english
     
-    if not english :
-        new_text = GoogleTranslator(source='auto', target='en').translate(new_text)
+    # if not english :
+        # new_text = GoogleTranslator(source='auto', target='en').translate(new_text)
     print(i,"->",len(tmpH))
     
     blob=TextBlob(new_text)
@@ -97,8 +97,8 @@ for i in range(len(tmpA)):
     new_text = re.sub(r'http\S+', '', new_text)
     new_text = re.sub(r'#\S+', '', new_text) #remove # and link
         
-    if not english :
-        new_text = GoogleTranslator(source='auto', target='en').translate(new_text)
+    # if not english :
+        # new_text = GoogleTranslator(source='auto', target='en').translate(new_text)
     print(i,"->",len(tmpA))
     
     blob=TextBlob(new_text)
