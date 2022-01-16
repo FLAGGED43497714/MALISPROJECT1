@@ -11,12 +11,12 @@ import numpy as np
 
 
 
-ignored_words = set(stopwords.words('french'))
+ignored_words = set(stopwords.words('spanish'))
 
 
 filterStops = lambda w: len(w) < 3 or w in ignored_words
 
-path_doc = "psgTest1_no_smiley.txt"
+path_doc = "Done\MatReading_Fulham_Reading11_01_2022.txt"
 
 
 
