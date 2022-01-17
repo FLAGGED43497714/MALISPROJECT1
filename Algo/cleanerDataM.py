@@ -25,8 +25,8 @@ THE_df = pd.read_csv(THE_data_csv)
 
 
 
-link_hometeam = "Done\MatCagliariCalcio_Bologna_CagliariCalcio11_01_2022.txt"
-link_awayteam= "Done\MatCagliariCalcio_Bologna_Bologna11_01_2022.txt"
+link_hometeam = "toProcess\MatWolves_Southampton_Wolves15_01_2022.txt"
+link_awayteam= "toProcess\MatWolves_Southampton_Southampton15_01_2022.txt"
 
 english = True
 

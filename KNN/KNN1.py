@@ -103,3 +103,13 @@ if imported :
     df_total_pred.to_csv(path_out_sh_pred,index=False,header=False)
 
 
+    fig, ax = plt.subplots()
+    colorstrain = {1:'green', 2:'grey', 3:'red'}
+
+    for k in range(30) :
+        for j in range(30) :
+            coord = [[10*k - 150, 150 - 10*j]]
+            pred = my_KNN.predict(coord)
+            plt.scatter(x = coord[0][0],y=coord[0][1],color=colorstrain[pred[0]], s=50)
+
+    plt.show()

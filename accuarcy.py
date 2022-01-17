@@ -1,40 +1,35 @@
 import pandas as pd
 
+path_shuf = 'shuf.csv'
+# path_pred = 'KNN/resultsKNN.csv'
+# path_pred = 'KNN/resultsKNNneig1.csv'
+# path_pred = 'SGD/resultsSGD.csv'
+path_pred = 'RandomForest/resultsRF.csv'
+# path_pred = 'NeuralNet/results.csv'
 
+df_shuf = pd.read_csv(path_shuf,delimiter=',')
 
-path_file = 'CetteFoisCLaBonne.csv'
-# data_Matrix = np.genfromtxt(path_file, delimiter=',')
-df_full = pd.read_csv(path_file, delimiter=',')
+df_reel = df_shuf.loc[:,['Result']]
 
+df_pred_train = pd.read_csv(path_pred,header=None).loc[:33,]
 
-df_reel = df_full.loc[:,['diffElo', 'diffSent', 'yreel']]
+# print('df_pred_train')
+# print(df_pred_train)
 
-df_pred_train = df_full.loc[:34,['diffElo', 'diffSent', 'ypred']]
+df_pred_test = pd.read_csv(path_pred).loc[33:,]
 
-df_pred_test = df_full.loc[34:,['diffElo', 'diffSent', 'ypred']]
-
-
-good_pred_nb_te = 0
-
-for k in range(len(df_pred_test)) :
-    # print(df_pred_test.iat[k,2])
-    # print(df_full.iat[33+k,2])
-
-    if df_pred_test.iat[k,2] == df_full.iat[34+k,2] : 
-        good_pred_nb_te+=1 
-
-print('accuarcy test : ')
-print(good_pred_nb_te/len(df_pred_test))
-
-    
-good_pred_nb_tr = 0
+nb_goodPredTr = 0
 
 for k in range(len(df_pred_train)) :
-    # print(df_pred_test.iat[k,2])
-    # print(df_full.iat[33+k,2])
+    if df_pred_train.iat[k,0] == df_reel.iat[k,0] : 
+        nb_goodPredTr+=1 
 
-    if df_pred_train.iat[k,2] == df_full.iat[k,2] : 
-        good_pred_nb_tr+=1 
 
-print('accuarcy train : ')
-print(good_pred_nb_tr/len(df_pred_train))
+nb_goodPredTe = 0
+
+for k in range(len(df_pred_test)) :
+    if df_pred_test.iat[k,0] == df_reel.iat[34+k,0] : 
+        nb_goodPredTe+=1 
+
+print('Accuarcy train = '+str(nb_goodPredTr/len(df_pred_train)))
+print('Accuarcy test = '+str(nb_goodPredTe/len(df_pred_test)))

@@ -79,7 +79,7 @@ if imported :
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, shuffle = False)
 
-    my_SGD = SGDClassifier(max_iter=20)
+    my_SGD = SGDClassifier(max_iter=50)
     my_SGD.fit(X_train, y_train)
 
 
@@ -98,6 +98,17 @@ if imported :
 
     df_total_pred = pd.DataFrame(y_total_pred)
     df_total_pred.to_csv(path_out_sh_pred,index=False,header=False)
+
+    fig, ax = plt.subplots()
+    colorstrain = {1:'green', 2:'grey', 3:'red'}
+
+    for k in range(30) :
+        for j in range(30) :
+            coord = [[10*k - 150, 150 - 10*j]]
+            pred = my_SGD.predict(coord)
+            plt.scatter(x = coord[0][0],y=coord[0][1],color=colorstrain[pred[0]], s=50)
+
+    plt.show()
 
     # df_total_pred_prob = pd.DataFrame(y_total_pred_prob)
     # df_total_pred_prob.to_csv(path_out_sh_pred_prob,index=False,header=False)

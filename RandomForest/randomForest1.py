@@ -102,10 +102,16 @@ if imported :
     df_total_pred = pd.DataFrame(y_total_pred)
     df_total_pred.to_csv(path_out_sh_pred,index=False,header=False)
 
-    X = X.round(decimals= 2)
-    # X = X['diffSent'].round(decimals= 2)
+    fig, ax = plt.subplots()
+    colorstrain = {1:'green', 2:'grey', 3:'red'}
 
-    X.to_numpy(dtype=float)
+    for k in range(30) :
+        for j in range(30) :
+            coord = [[10*k - 150, 150 - 10*j]]
+            pred = my_SGD.predict(coord)
+            plt.scatter(x = coord[0][0],y=coord[0][1],color=colorstrain[pred[0]], s=50)
+
+    plt.show()
 
 
     # df_total_pred_prob = pd.DataFrame(y_total_pred_prob)
