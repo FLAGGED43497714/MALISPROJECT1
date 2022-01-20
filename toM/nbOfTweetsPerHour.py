@@ -4,9 +4,15 @@ from matplotlib.lines import Line2D
 import numpy as np
 import re
 
-files = ['ASSE_RC Lens_ASSE15_01_2022.txt']
-hourOfMatch = 13
+file = 'Venezia_Empoli_Venezia16_01_2022.txt'
+hourOfMatch = 15
 
+def rotate(l, k):
+    n = len(l)
+    res = [0 for i in range(n)]
+    for i in range(n):
+        res[i] = l[(i-k)%n]
+    return res
 
 def justName(file):
     str = ''
@@ -43,12 +49,12 @@ Y = np.array(Y)
 varY = sum((Y - (sum(Y)/Y.shape[0])*np.ones(Y.shape[0]))**2)
 Z = (Y - (sum(Y)/Y.shape[0])*np.ones(Y.shape[0]))/np.sqrt(varY)
 
-
+X, Y, Z = np.array(rotate(X, 23 - hourOfMatch)), np.array(rotate(Y, 23 - hourOfMatch)), np.array(rotate(Z, 23 - hourOfMatch))
 plt.bar(X,Y, color = cm.jet(Z))
 plt.xticks(rotation=40, fontsize=10)
 plt.ylabel('Number of Tweets')
 plt.title('Number of Tweets per Hour for the match :'+justName(file))
-plt.axvline(x=hourOfMatch, color = 'r', linestyle='--', label='Hour of Match')
+plt.axvline(x=23, color = 'r', linestyle='--', label='Hour of Match')
 
 lines = [Line2D([0], [0], color='red', linewidth=1, linestyle='--')]
 labels = ['Hour of Match']
