@@ -28,9 +28,9 @@ fig, ax = plt.subplots()
 
 colors = {1:'green', 2:'grey', 3:'red', 5:'yellow'}
 
-x = [10 *k - 300 for k in range(60)]
-moins_x = [-element for element in x]
-plt.plot(x,moins_x)
+# x = [10 *k - 300 for k in range(60)]
+# moins_x = [-element for element in x]
+# plt.plot(x,moins_x)
 
 grouped = df_diff.groupby('Result')
 for key, group in grouped:

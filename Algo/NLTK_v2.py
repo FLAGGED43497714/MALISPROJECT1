@@ -17,6 +17,8 @@ ignored_words = set(stopwords.words('spanish'))
 filterStops = lambda w: len(w) < 3 or w in ignored_words
 
 path_doc = "Done\MatReading_Fulham_Reading11_01_2022.txt"
+# path_doc = "translated\Done\En-Matlevane_mallorc_lev_8_01.txt"
+
 
 
 

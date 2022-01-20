@@ -34,7 +34,7 @@ def requestTweets(team1, team2, language, daymonth, nb_tweets) :
 
         def isGoodTweet(conc_txt, tweet_full_text) :
             good_tweet = True
-            ban_word_list = ['weed', 'beuh', 'nba', 'NBA', 'sanitaire', 'telegram', 'snap', 'snapchat', 'live stream']
+            ban_word_list = ['weed', 'beuh', 'nba', 'NBA', 'sanitaire', 'telegram', 'snap', 'snapchat', 'live stream', 'Live Stream']
             if conc_txt.count(tweet_full_text) >=  1 :
                 good_tweet = False
             for ban_word in ban_word_list :

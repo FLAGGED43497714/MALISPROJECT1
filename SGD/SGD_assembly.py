@@ -1,21 +1,21 @@
 from numpy import NaN, dtype
 from sklearn.linear_model import SGDClassifier
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_validate, train_test_split
 from sklearn.utils import shuffle
 from sqlalchemy import false, null
 from sympy import frac
 from matplotlib import pyplot as plt
 import numpy as np
 
-path_import_sh = 'shuf.csv'
+path_import_sh = 'odds_shuf10.csv'
 
 
 dfclean = pd.read_csv(path_import_sh, delimiter=',')
 
 dfclean = dfclean.dropna()
 
-X = dfclean.loc[:,['diffElo', 'diffSent']]
+X = dfclean.loc[:,['diffElo','diffSent']] #,'diffSent'
 y = dfclean.loc[:,['Result']]
 
 
@@ -99,3 +99,4 @@ accuarcy_test = nb_goodPredTe/len(y_te_assembly)
 
 print('Accuarcy train = '+str(accuarcy_train))
 print('Accuarcy test = '+str(accuarcy_test))
+

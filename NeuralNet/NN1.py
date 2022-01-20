@@ -23,38 +23,11 @@ imported = True
 
 # For 'imported' mode 
 # path_import_std = 'super_clean.csv'
-path_import_sh = 'shuf.csv'
+path_import_sh = 'odds_shuf10.csv'
 
 
 path_out_sh_pred = 'NeuralNet/results.csv'
 path_out_sh_pred_prob = 'NeuralNet/probas.csv'
-
-
-
-# if created_on_the_fly : 
-
-#     # data_Matrix = np.genfromtxt(path_file, delimiter=',')
-#     df_full = pd.read_csv(path_file, delimiter=',')
-
-#     df_notPPN = df_full[df_full['Result']!=4]
-#     df_notPPN = df_notPPN[df_full['Result']!=5]
-#     df_notPPN = df_notPPN[df_notPPN['Result']!=null]
-#     df_notPPN = df_notPPN[df_notPPN['Result']!=34]
-
-#     df_selected = df_notPPN.loc[:,['Hometeam', 'AwayTeam', 'HomeAvgPolarity', 'HomeElo', 'AwayAvgPolarity', 'AwayElo', 'Result']]
-
-#     df_selected['diffElo'] = df_selected.HomeElo- df_selected.AwayElo
-#     df_selected['diffSent'] = 1000 * (df_selected.HomeAvgPolarity- df_selected.AwayAvgPolarity)
-
-#     shuffled_Data = df_selected.sample(frac=1)
-
-#     shuffled_Data.to_csv(path_out_sh, index=False)
-
-
-#     df_diff_sh = shuffled_Data.loc[:,['diffElo', 'diffSent', 'Result']]
-
-#     df_diff_sh.to_csv(path_out_sh_diff, index = False)
-
 
 
 if imported :
@@ -62,7 +35,7 @@ if imported :
 
     dfclean = dfclean.dropna()
 
-    X = dfclean.loc[:,['diffElo', 'diffSent']]
+    X = dfclean.loc[:,['diffSent','diffElo']] #'diffSent', 
     y = dfclean.loc[:,['Result']]
 
 
@@ -83,7 +56,7 @@ if imported :
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, shuffle = False)
 
-    my_SGD = MLPClassifier(hidden_layer_sizes=3)
+    my_SGD = MLPClassifier(hidden_layer_sizes=(3,3))
     my_SGD.fit(X_train, y_train)
 
 
@@ -103,16 +76,41 @@ if imported :
     df_total_pred = pd.DataFrame(y_total_pred)
     df_total_pred.to_csv(path_out_sh_pred,index=False,header=False)
 
-    fig, ax = plt.subplots()
-    colorstrain = {1:'green', 2:'grey', 3:'red'}
 
-    for k in range(30) :
-        for j in range(30) :
-            coord = [[10*k - 150, 150 - 10*j]]
-            pred = my_SGD.predict(coord)
-            plt.scatter(x = coord[0][0],y=coord[0][1],color=colorstrain[pred[0]], s=50)
+    nb_goodPredTr = 0
 
-    plt.show()
+    for k in range(len(y_tr_pred)) :
+        if y_tr_pred[k] == y[k] : 
+            nb_goodPredTr+=1 
+
+
+    nb_goodPredTe = 0
+
+    for k in range(len(y_te_pred)) :
+        if y_te_pred[k] == y[34+k] : 
+            nb_goodPredTe+=1 
+
+    accuarcy_train = nb_goodPredTr/len(y_tr_pred)
+    accuarcy_test = nb_goodPredTe/len(y_te_pred)
+
+
+
+
+    print('Accuarcy train = '+str(accuarcy_train))
+    print('Accuarcy test = '+str(accuarcy_test))
+
+
+
+    # fig, ax = plt.subplots()
+    # colorstrain = {1:'green', 2:'grey', 3:'red'}
+
+    # for k in range(30) :
+    #     for j in range(30) :
+    #         coord = [[10*k - 150, 150 - 10*j]]
+    #         pred = my_SGD.predict(coord)
+    #         plt.scatter(x = coord[0][0],y=coord[0][1],color=colorstrain[pred[0]], s=50)
+
+    # plt.show()
 
     # df_total_pred_prob = pd.DataFrame(y_total_pred_prob)
     # df_total_pred_prob.to_csv(path_out_sh_pred_prob,index=False,header=False)
