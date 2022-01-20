@@ -1,0 +1,7 @@
+The main algorithm is SGD/SGD_Assembly_Bet. 
+
+You can choose the seed you want to test on by changing the path_file to odds_shuf,odds_shuf2,odds_shuf3 etc...
+
+The date of the matchs can be checked on fichier_test_3.csv 
+
+Some raw data can be found in /toM/, you can check that the tweets were created before the match's begining.
